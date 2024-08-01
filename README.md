@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/imgs/nav-logo.png" alt="Logo" width="190" height="100">
+    <img src="assets/imgs/nav-logo.png" alt="Logo" width="190" height="65">
   </a>
 
   <h3 align="center">Cleantoclean.com.au</h3>
