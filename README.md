@@ -3,7 +3,7 @@
     <img src="assets/imgs/nav-logo.png" alt="Logo" width="190" height="65">
   </a>
 
-  <h3 align="center">Cleantoclean.com.au</h3>
+  <h3 align="center">Cleantoclean Website</h3>
 
   <p align="center">
     Cleaning Company Website
